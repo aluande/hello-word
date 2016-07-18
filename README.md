@@ -1,2 +1,3 @@
 # hello-word
-Just a respository
+
+So this is Git? 
